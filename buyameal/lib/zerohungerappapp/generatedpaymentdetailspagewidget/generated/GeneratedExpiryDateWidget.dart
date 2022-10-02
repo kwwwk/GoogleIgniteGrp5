@@ -24,7 +24,7 @@ class GeneratedExpiryDateWidget extends StatelessWidget {
           bottom: null,
           width: 130.81842041015625,
           height: 22.91633415222168,
-          child: GeneratedExpirydateWidget(),
+          child: GeneratedExpiryDateWidget(),
         ),
         Positioned(
           left: 0.0,

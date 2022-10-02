@@ -1,7 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:flutterapp/zerohungerappapp/generatedpaymentdetailspagewidget/generated/GeneratedCardNumberWidget.dart';
 import 'package:flutterapp/zerohungerappapp/generatedpaymentdetailspagewidget/generated/Generated0000000000000000Widget.dart';
-import 'package:flutterapp/zerohungerappapp/generatedpaymentdetailspagewidget/generated/GeneratedCardnumberWidget.dart';
 import 'package:flutterapp/zerohungerappapp/generatedpaymentdetailspagewidget/generated/GeneratedGroup16274Widget1.dart';
 import 'package:flutterapp/zerohungerappapp/generatedpaymentdetailspagewidget/generated/GeneratedBackWidget2.dart';
 import 'package:flutterapp/zerohungerappapp/generatedpaymentdetailspagewidget/generated/GeneratedCheckyouremailtoconfirmpaymentfromyourBankWidget.dart';
@@ -69,7 +68,7 @@ class GeneratedPaymentdetailspageWidget extends StatelessWidget {
             bottom: null,
             width: 130.0,
             height: 23.0,
-            child: GeneratedCardnumberWidget(),
+            child: GeneratedPaymentdetailspageWidget(),
           ),
           Positioned(
             left: 16.0,
